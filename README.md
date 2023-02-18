@@ -8,6 +8,7 @@ Class imbalance occurs in many real-world applications, including image classifi
 In this work, we propose a novel \textit{Conditional Variational Autoencoder with Balanced Pre-training for Generative Adversarial Networks} (CAPGAN) as an augmentation tool to generate realistic synthetic images. In particular, we utilize a conditional convolutional variational autoencoder with supervised and balanced pre-training for the GAN initialization and training with gradient penalty.  Our proposed method presents a superior performance of other state-of-the-art methods on the highly imbalanced version of MNIST, Fashion-MNIST, CIFAR-10, and two medical imaging datasets. Our method can synthesize high-quality minority samples in terms of Fréchet inception distance, structural similarity index measure and perceptual quality.
 
 Corresponding author:
-Ali Braytee 
+Ali Braytee
 
 Cite at:
+https://ieeexplore.ieee.org/abstract/document/10032367
