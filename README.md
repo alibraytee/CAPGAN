@@ -1,6 +1,6 @@
 # **Conditional Variational Autoencoder with Balanced Pre-training for Generative Adversarial Networks**
 
-In this project, my capstone research project group proposes a novel method called "[*Conditional Variational Autoencoder with Balanced Pre-training for Generative Adversarial Networks (CAPGAN)*](https://ieeexplore.ieee.org/abstract/document/10032367)" as an augmentation tool to generate realistic synthetic images in the presence of highly imbalanced imaging datasets.
+In this project,we propose a novel method called "[*Conditional Variational Autoencoder with Balanced Pre-training for Generative Adversarial Networks (CAPGAN)*](https://ieeexplore.ieee.org/abstract/document/10032367)" as an augmentation tool to generate realistic synthetic images in the presence of highly imbalanced imaging datasets.
 
 
 ## Conference
